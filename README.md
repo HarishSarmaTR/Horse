@@ -1,6 +1,8 @@
 # Horse
 
-![image](https://github.com/user-attachments/assets/4b722e9c-6ce9-4afc-ac9f-c8d32aa39090) <br> <h3> Scientific name of mine: Equus ferus caballus </h3>
+![8637b8c6-c43a-4af4-a28f-1bc152f9a031](https://github.com/user-attachments/assets/a69c5bf9-4e7f-462b-8a2b-0dcc56ee441d)
+
+<br> <h3> Scientific name of mine: Equus ferus caballus </h3>
 
 <h1> Intro </h1>
 <h3> Hi my name is Jhonny, please feel free to navigate to know about me! </h3>
