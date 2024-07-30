@@ -12,6 +12,7 @@
  - [Horse 3](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 <h1>Diet</h1>
+To find about my diet please click [here](./diet.md)
 
 ![image](https://github.com/user-attachments/assets/5dce5d05-e6ea-48ea-91ef-ca563e440d5e)
 
