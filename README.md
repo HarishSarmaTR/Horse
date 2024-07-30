@@ -1,3 +1,8 @@
+---
+layout: default
+title: All About Horses
+---
+
 # All About Horses
 
 ## Navigation
