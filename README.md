@@ -8,9 +8,10 @@
 
 <h1> Image Gallery</h1> 
 
- - [Horse 1](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Horse 2](https://github.com/matiassingers/awesome-readme)
- - [Horse 3](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Image 1](./images.jpg)
+ - [Image 2](./images(2).jpg)
+ - [Image 3](./download(1).jpg)
+ - [Image 4](./download(1).jpg)
 
 # Diet 
 
