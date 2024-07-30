@@ -7,7 +7,32 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
+            margin: 0;
+            padding: 0;
+        }
+        .navbar {
+            overflow: hidden;
+            background-color: #333;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+        }
+        .navbar a {
+            float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .content {
+            padding: 20px;
+            margin-top: 50px; /* Add a top margin to avoid content being hidden under the navbar */
         }
         h1, h3 {
             color: #333;
@@ -23,31 +48,46 @@
     </style>
 </head>
 <body>
-    <h1>Horse</h1>
-    <img src="https://github.com/user-attachments/assets/a69c5bf9-4e7f-462b-8a2b-0dcc56ee441d" alt="Horse Image">
-
-    <h3>Scientific name of mine: Equus ferus caballus</h3>
-
-    <h1>Intro</h1>
-    <h3>Hi, people refer to me as a horse and my scientific name is Equus ferus caballus, please feel free to navigate to know more about me!</h3>
-
-    <h1>Image Gallery</h1>
-    <div class="gallery">
-        <ul>
-            <li><a href="https://awesomeopensource.com/project/elangosundar/awesome-README-templates">Horse 1</a></li>
-            <li><a href="https://github.com/matiassingers/awesome-readme">Horse 2</a></li>
-            <li><a href="https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project">Horse 3</a></li>
-        </ul>
+    <div class="navbar">
+        <a href="#intro">Intro</a>
+        <a href="#gallery">Image Gallery</a>
+        <a href="#diet">Diet</a>
+        <a href="#links">External Links</a>
     </div>
 
-    <h1>Diet</h1>
-    <img src="https://github.com/user-attachments/assets/5dce5d05-e6ea-48ea-91ef-ca563e440d5e" alt="Diet Image">
+    <div class="content">
+        <section id="intro">
+            <h1>Horse</h1>
+            <img src="https://github.com/user-attachments/assets/a69c5bf9-4e7f-462b-8a2b-0dcc56ee441d" alt="Horse Image">
+            <h3>Scientific name of mine: Equus ferus caballus</h3>
+            <h1>Intro</h1>
+            <h3>Hi my name is Jhonny, please feel free to navigate to know about me!</h3>
+        </section>
 
-    <h1>External links:</h1>
-    <div class="links">
-        <a href="https://horseandcountry.tv/what-do-horses-eat#:~:text=A%20horse%20should%20typically%20eat,will%20consume%20around%2011kg%20daily">Link 1</a>
-        <a href="https://spana.org/blog/what-do-horses-eat">Link 2</a>
-        <a href="https://www.thesprucepets.com/what-horses-eat-that-keep-them-healthy-1886504">Link 3</a>
+        <section id="gallery">
+            <h1>Image Gallery</h1>
+            <div class="gallery">
+                <ul>
+                    <li><a href="https://awesomeopensource.com/project/elangosundar/awesome-README-templates">Horse 1</a></li>
+                    <li><a href="https://github.com/matiassingers/awesome-readme">Horse 2</a></li>
+                    <li><a href="https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project">Horse 3</a></li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="diet">
+            <h1>Diet</h1>
+            <img src="https://github.com/user-attachments/assets/5dce5d05-e6ea-48ea-91ef-ca563e440d5e" alt="Diet Image">
+        </section>
+
+        <section id="links">
+            <h1>External links</h1>
+            <div class="links">
+                <a href="https://horseandcountry.tv/what-do-horses-eat#:~:text=A%20horse%20should%20typically%20eat,will%20consume%20around%2011kg%20daily">Link 1</a>
+                <a href="https://spana.org/blog/what-do-horses-eat">Link 2</a>
+                <a href="https://www.thesprucepets.com/what-horses-eat-that-keep-them-healthy-1886504">Link 3</a>
+            </div>
+        </section>
     </div>
 </body>
 </html>
