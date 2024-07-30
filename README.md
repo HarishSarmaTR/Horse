@@ -12,11 +12,11 @@
  - [Horse 2](https://github.com/matiassingers/awesome-readme)
  - [Horse 3](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
-<h1>External links:</h1>
-
 # Diet 
 
 To find about my diet please click [here](./diet.md)
+
+<h1>External links:</h1>
 
 - [Link 1](https://horseandcountry.tv/what-do-horses-eat#:~:text=A%20horse%20should%20typically%20eat,will%20consume%20around%2011kg%20daily)
 - [Link 2](https://spana.org/blog/what-do-horses-eat)
