@@ -26,9 +26,9 @@ Horses are magnificent creatures known for their strength, grace, and beauty. Th
 ## Image Gallery 
 
  - [Image 1](./images.jpg)
- - [Image 2](./images(2).jpg)
- - [Image 3](./download(1).jpg)
- - [Image 4](./download(1).jpg)
+ - [Image 2](./images2.jpg)
+ - [Image 3](./download1.jpg)
+ - [Image 4](./download2.jpg)
 
 ## Breeds
 
