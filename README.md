@@ -57,9 +57,9 @@ Proper care is essential for a horse's health and well-being. Key aspects includ
 
 ## External links 🔗:
 
-- [Link 1](https://horseandcountry.tv/what-do-horses-eat#:~:text=A%20horse%20should%20typically%20eat,will%20consume%20around%2011kg%20daily)
-- [Link 2](https://spana.org/blog/what-do-horses-eat)
-- [Link 3](https://www.thesprucepets.com/what-horses-eat-that-keep-them-healthy-1886504)
+- [A guide to feeding and watering for Horse](https://horseandcountry.tv/what-do-horses-eat#:~:text=A%20horse%20should%20typically%20eat,will%20consume%20around%2011kg%20daily)
+- [How much should horses eat?](https://spana.org/blog/what-do-horses-eat)
+- [What Do Horses Eat?](https://www.thesprucepets.com/what-horses-eat-that-keep-them-healthy-1886504)
 
 
 ## Conclusion
