@@ -38,5 +38,6 @@ footer-links-active:
 owner: Thomsonreuters
 year: 2024
 
-theme: jekyll-theme-cayman
+remote_theme: daattali/beautiful-jekyll@6.0.1
+#theme: jekyll-theme-cayman
 markdown: kramdown
