@@ -19,4 +19,4 @@ owner: Thomsonreuters
 year: 2024
 
 theme: jekyll-theme-cayman
-markdown: kramdown
+#markdown: kramdown
