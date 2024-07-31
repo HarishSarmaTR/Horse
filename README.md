@@ -14,7 +14,7 @@ title: All About Horses
 - [Care and Maintenance](#care-and-maintenance)
 - [Conclusion](#conclusion)
 
-## Introduction 👨‍💻:
+## Introduction
 
 ![8637b8c6-c43a-4af4-a28f-1bc152f9a031](https://github.com/user-attachments/assets/a69c5bf9-4e7f-462b-8a2b-0dcc56ee441d)
 
