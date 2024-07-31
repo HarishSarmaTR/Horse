@@ -1,15 +1,8 @@
-title: Horse
+title: HORSE
 description: >
   Welcome to my personal space on the web!<br><br>
   Hi there, I’m Horsy. I’m glad you stopped by. Here, you can explore various aspects of my life, projects, and interests. I invite you to navigate through the pages to get to know me better and see what I’ve been working on.<br><br>
   Feel free to reach out if you have any questions or just want to connect. Enjoy your visit!
-
-# Optional: Additional settings
-url: "https://<your-username>.github.io" # Your site's base URL
-baseurl: "/" # The base URL for your site
-author:
-  name: "Horsy"
-  email: "horsy@example.com"
 
 author:
   name: Harish sarma
@@ -19,4 +12,4 @@ owner: Thomsonreuters
 year: 2024
 
 theme: jekyll-theme-cayman
-#markdown: kramdown
+markdown: kramdown
