@@ -5,6 +5,36 @@ author:
   name: Harish sarma
   url: #https://harishsarmatr.github.io/Horse/
 
+# List of links in the navigation bar
+navbar-links:
+  Home: ""
+  About: "about"
+  Blog: "blog"
+  Portfolio: "portfolio"
+  Contact: "contact"
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "./download1.jpg"
+
+# Author information
+author:
+  name: "Your Name"
+  email: "youremail@example.com"
+  github: yourusername
+  linkedin: yourlinkedin
+  twitter: yourtwitter
+
+# Select which links to show in the footer
+footer-links-active:
+  rss: false
+  facebook: false
+  email: true
+  twitter: true
+  google-plus: false
+  github: true
+  linkedin: true
+
 owner: Thomsonreuters
 year: 2024
 
