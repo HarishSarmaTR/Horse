@@ -6,12 +6,12 @@ title: All About Horses
 # All About Horses
 
 ## Navigation 🧭
-- [Introduction](#introduction)
-- [General Information](#general-information)
-- [Image Gallery](#image-gallery)
-- [Breeds](#breeds)
-- [Interesting Facts](#interesting-facts)
-- [Care and Maintenance](#care-and-maintenance)
+- [Introduction](#introduction-👨‍💻)
+- [General Information](#general-information-📎)
+- [Image Gallery](#image-gallery-🖼️)
+- [Breeds](#breeds-🐎)
+- [Interesting Facts](#interesting-facts-🪄)
+- [Care and Maintenance](#care-and-maintenance-🛠️)
 - [Conclusion](#conclusion)
 
 ## Introduction 👨‍💻
