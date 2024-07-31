@@ -5,7 +5,7 @@ title: All About Horses
 
 # All About Horses
 
-## Navigation
+## Navigation 🧭
 - [Introduction](#introduction)
 - [General Information](#general-information)
 - [Image Gallery](#image-gallery)
@@ -14,13 +14,13 @@ title: All About Horses
 - [Care and Maintenance](#care-and-maintenance)
 - [Conclusion](#conclusion)
 
-## Introduction 
+## Introduction 👨‍💻
 
 ![8637b8c6-c43a-4af4-a28f-1bc152f9a031](https://github.com/user-attachments/assets/a69c5bf9-4e7f-462b-8a2b-0dcc56ee441d)
 
 Horses are magnificent creatures known for their strength, grace, and beauty. They have been a part of human history for thousands of years, serving as companions, work animals, and athletes.
 
-## General Information
+## General Information 📎
 
 - **Scientific Name**: *Equus ferus caballus*
 - **Average Lifespan**: 25-30 years
@@ -28,14 +28,14 @@ Horses are magnificent creatures known for their strength, grace, and beauty. Th
 - **Average Weight**: 900 to 2,200 pounds
 - **Diet**: Herbivores; they primarily eat grass, hay, and grains( you can find more details 👉[here](./diet.md))
 
-## Image Gallery 
+## Image Gallery 🖼️
 
  - [Image 1](./images.jpg)
  - [Image 2](./images2.jpg)
  - [Image 3](./download1.jpg)
  - [Image 4](./download2.jpg)
 
-## Breeds
+## Breeds 🐎
 
 There are over 300 different horse breeds, including:
 
@@ -44,14 +44,14 @@ There are over 300 different horse breeds, including:
 - **Thoroughbred**: Famous for their speed and agility, often used in racing.
 - **Shetland Pony**: Small but sturdy, ideal for children and driving.
 
-## Interesting Facts
+## Interesting Facts 🪄
 
 - Horses have a nearly 360-degree range of vision.
 - They communicate through body language, vocalizations, and facial expressions.
 - A horse's gallop can reach speeds of up to 55 miles per hour.
 - Horses have been domesticated for over 5,000 years.
 
-## Care and Maintenance
+## Care and Maintenance 🛠️
 
 Proper care is essential for a horse's health and well-being. Key aspects include:
 
