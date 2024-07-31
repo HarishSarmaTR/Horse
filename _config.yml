@@ -20,10 +20,10 @@ avatar: "./funnyhorse.jpg"
 # Author information
 author:
   name: "Harish Sarma"
-  email: "harish.velavalapalli@gmail.com"
-  github: HarishSarmaTR
-  linkedin: yourlinkedin
-  twitter: yourtwitter
+  #email: "harish.velavalapalli@gmail.com"
+  #github: HarishSarmaTR
+  #linkedin: yourlinkedin
+  #twitter: yourtwitter
 
 # Select which links to show in the footer
 footer-links-active:
@@ -35,7 +35,7 @@ footer-links-active:
   github: true
   linkedin: false
 
-owner: Thomsonreuters
+owner: Harish Sarma
 year: 2024
 
 remote_theme: daattali/beautiful-jekyll@6.0.1
