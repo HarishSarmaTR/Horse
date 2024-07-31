@@ -15,13 +15,13 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "./horse.jpg"
+avatar: "./funnyhorse.jpg"
 
 # Author information
 author:
-  name: "Your Name"
-  email: "youremail@example.com"
-  github: yourusername
+  name: "Harish Sarma"
+  email: "harish.velavalapalli@gmail.com"
+  github: HarishSarmaTR
   linkedin: yourlinkedin
   twitter: yourtwitter
 
@@ -30,10 +30,10 @@ footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
-  linkedin: true
+  linkedin: false
 
 owner: Thomsonreuters
 year: 2024
