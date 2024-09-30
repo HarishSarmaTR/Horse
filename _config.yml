@@ -1,12 +1,42 @@
-title: Horse
-description: Hi my name is Jhonny, please feel free to navigate to know about me!
+title: HORSE
+description: Welcome to my personal space on the web!
 
 author:
   name: Harish sarma
-  url: https://harishsarmatr.github.io/Horse/
+  url: #https://harishsarmatr.github.io/Horse/
 
-owner: Thomsonreuters
+# List of links in the navigation bar
+navbar-links:
+  Home: ""
+  About: "about"
+  Portfolio: "portfolio"
+  Contact: "contact"
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "./funnyhorse.jpg"
+
+# Author information
+author:
+  name: "Harish Sarma"
+  #email: "harish.velavalapalli@gmail.com"
+  #github: HarishSarmaTR
+  #linkedin: yourlinkedin
+  #twitter: yourtwitter
+
+# Select which links to show in the footer
+footer-links-active:
+  rss: false
+  facebook: false
+  email: true
+  twitter: false
+  google-plus: false
+  github: true
+  linkedin: false
+
+owner: Harish Sarma
 year: 2024
 
-google_analytics: false
-theme: jekyll-theme--primer
+remote_theme: daattali/beautiful-jekyll@6.0.1
+#theme: jekyll-theme-cayman
+markdown: kramdown
