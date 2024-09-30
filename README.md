@@ -66,7 +66,6 @@ Proper care is essential for a horse's health and well-being. Key aspects includ
 - [How much should horses eat?](https://spana.org/blog/what-do-horses-eat)
 - [What Do Horses Eat?](https://www.thesprucepets.com/what-horses-eat-that-keep-them-healthy-1886504)
 
-
 ## Conclusion
 
 Horses continue to captivate people around the world with their elegance and versatility. Whether you're interested in riding, breeding, or simply admiring them, horses are remarkable animals that enrich our lives.
